@@ -12,7 +12,7 @@
 - 🪄 Keeping it simple.
 - 💿 Bachelor's Degree in Computer Science.
 - 👷‍♂️ Doing one thing at a time.
-- 🧠 Trying to learn new things everyday.
+- 🧠 Learning new things every day.
 
 &nbsp;
 
