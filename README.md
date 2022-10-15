@@ -10,8 +10,8 @@
 
 - ⚡️ Striving for clean code.
 - 🪄 Keeping it simple.
-- 💿 Bachelor's Degree in Computer Science.
-- 👷‍♂️ Doing one thing at a time.
+- 🎓 Bachelor's Degree in Computer Science.
+- 💿 Doing one thing at a time.
 - 🧠 Learning new things every day.
 
 &nbsp;
