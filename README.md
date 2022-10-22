@@ -8,7 +8,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://resources.github.com/assets/img/site/octocat-help.svg" />
 
-- ⚡️ Striving for clean code.
+- ⚡️ Clean code.
 - 🪄 Keeping it simple.
 - 🎓 Bachelor's Degree in Computer Science.
 - 💿 Doing one thing at a time.
