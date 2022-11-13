@@ -6,15 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://si.linkedin.com/in/matic-lakota-994116193)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:matic18@protonmail.com)
 
-<img width="55%" align="right" alt="Github" src="https://resources.github.com/assets/img/site/octocat-help.svg" />
-
-- ⚡️ Clean code.
-- 🪄 Keeping it simple.
 - 🎓 Bachelor's Degree in Computer Science.
-- 💿 Doing one thing at a time.
 - 🧠 Learning new things every day.
-
-&nbsp;
 
 ## Knowledge
 
