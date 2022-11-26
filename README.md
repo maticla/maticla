@@ -1,5 +1,7 @@
 ```
-software, bachelor's degree in computer science.
+software.
+
+bachelor's degree in computer science.
 
 currently making mobile apps in flutter. 
 
